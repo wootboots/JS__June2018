@@ -1,15 +1,14 @@
 $mainBlue: #2f5572;
+$mainGrey: #333;
 
 body {
-    color: $mainBlue;
-    padding: 25px;
-    margin: 10px;
-    columns: 300px 2;
+    font-family: 'Roboto', sans-serif;
+    color: $mainGrey;
 }
 
-.box {
-    a {
-        display: block;
-        padding: 10px;
-    }
+img {
+    max-width: 100%;
+    height: auto;
 }
+
+@import "modules/_large-hero";
