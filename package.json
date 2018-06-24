@@ -1,10 +1,7 @@
 {
   "name": "js__june2018",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "dependencies": {
     "jquery": "^3.3.1",
     "normalize.css": "^8.0.0"
-
 }
